@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>400</width>
+    <height>330</height>
+   </rect>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QPushButton" name="b_baton">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>10</y>
+      <width>380</width>
+      <height>22</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>5235 Downtown Radio 97.7 Baton Rouge's 60s and 70s Hits</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="b_oldies">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>40</y>
+      <width>380</width>
+      <height>22</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>4717 Real Oldies 60s and 70s Pop Hits</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="b_oldcolgrn">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>100</y>
+      <width>380</width>
+      <height>22</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>5110 Oldies 93.5 Columbia and Greene's 60s and 70s Hits</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="b_valley">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>70</y>
+      <width>380</width>
+      <height>22</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>3348 Real Oldies 1470 The Valley’s 60s and 70s Hits</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="b_kmjm">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>130</y>
+      <width>380</width>
+      <height>22</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>4744 Leo 1360 KMJM Cedar Rapids' 60s and 70s Hits</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="b_kono">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>160</y>
+      <width>380</width>
+      <height>22</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>7350 86 KONO San Antonio Greatest Hits of the 60s and 70s</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="b_wfdu">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>190</y>
+      <width>380</width>
+      <height>22</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>6648 WFDU HD1 RetroRadio Oldies Oldies from the 50s, 60s, 70s</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="b_gold">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>220</y>
+      <width>380</width>
+      <height>22</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>9570 Oldies.Gold 50s 60s and 70s Greatest Hits</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="b_whgm">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>250</y>
+      <width>380</width>
+      <height>22</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>8477 WHGM Gold Greatest Hits of the 60s and 70s</string>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
