@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=RadioPlayer
+Comment=Listen to your favorite radio stations
+Exec=/usr/local/bin/RadioPlayer
+Icon=/usr/local/share/icons/hicolor/48x48/apps/iheart-icon.png
+Terminal=false
+Type=Application
+Categories=AudioVideo;Player;Radio;
+

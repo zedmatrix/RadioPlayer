@@ -1,0 +1,18 @@
+__README__
+
+In my attempt at learning Qt-6 and C++ as well as iHeart API
+i have packaged together 9 of my favorite radio streams into
+this convient package
+
+__INSTALL__
+
+very simple install
+
+# tar -xvf RadioPlayer.tar.xz
+# mkdir build
+# cd build
+# cmake ..
+# make
+# sudo make install
+
+this installs to /usr/local/
